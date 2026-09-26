@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** · PHP / Laravel · JavaScript · SQL
 📍 Kyiv, Ukraine · ✉️ [Killakan789@gmail.com](mailto:Killakan789@gmail.com) · 🐙 [github.com/Killakan789](https://github.com/Killakan789)
-
+Telegram - https://t.me/EvgeniyZaporozhets Whastsap - 380983965377
 ---
 
 ## About
