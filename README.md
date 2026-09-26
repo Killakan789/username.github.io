@@ -15,7 +15,7 @@ Full-Stack Developer with 10 years of experience. I've worked on e-commerce proj
 
 ## Tech Stack
 
-**Languages:** PHP · JavaScript · SQL · C# · Go
+**Languages:** PHP · Python · JavaScript · SQL · C# · Go 
 
 **Backend:** Laravel · Symfony · Zend · CodeIgniter · Node.js · RESTful API Design
 
