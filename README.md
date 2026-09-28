@@ -5,7 +5,7 @@
 ---
 
 [github.com/Killakan789](https://github.com/Killakan789)
-Telegram - https://t.me/EvgeniyZaporozhets Whastsap - 380983965377
+Telegram - https://t.me/EvgeniyZaporozhets
 
 ## About
 
